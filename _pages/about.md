@@ -13,6 +13,7 @@ I am a Postdoctoral Research Fellow in the [Raghavan Lab](https://labs.dana-farb
 
  In addition to computational biology, I am passionate about skiing and classical music.
 
+{% comment %}
 TODO
 ======
 More to come ...
@@ -20,3 +21,4 @@ More to come ...
 For more info
 ------
 More to come ...
+{% endcomment %}
