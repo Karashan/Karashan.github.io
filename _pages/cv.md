@@ -53,3 +53,27 @@ Academic Projects
 4. **Xiong, E. H.※, Zhang, X.※, ..., Noble, S. M., Robbins, N., Myers, C. L.¶, Cowen, L. E.¶ (2024)**
    * *Functional genomic analysis of genes important for Candida albicans fitness in diverse environmental conditions.* Cell Reports.
    * Developed a hypothesis testing pipeline using moderated t-test in R to identify and characterize genes important for *C. albicans* fitness in diverse environmental conditions, with the corresponding protocol published on STAR Protocols.
+   
+Conference Presentation
+======
+* **[Poster] The Eric and Wendy Schmidt Center Symposium: Biomedical Science and AI**, 04/28/2026-04/29/2026, Cambridge, MA, US
+
+* **[Talk] Great Lakes Bioinformatics Conference (GLBIO) 2025**, 05/12/2025-05/15/2025, Minneapolis, MN, US
+  * Won "Best Talk Award" at the 17th GLBIO conference in Minneapolis for the presentation titled "A deep learning approach for predicting synthetic lethality in human cells.”
+  
+* **[Talk] 2025 Midwest AI for Drug Discovery and Development Workshop**, 04/04/2025, Chicago, IL, US
+
+* **[Poster] Cold Spring Harbor Laboratory - Network Biology 2025**, 03/11/2025-03/15/2025, Cold Spring Harbor, NY, US
+
+* **[Talk] 2024 Conference on Computational Systems for Integrative Genomics**, 07/17/2024-07/18/2024, New York, NY, US
+
+* **[Poster] Cold Spring Harbor Laboratory - Biology of Genomes 2024**,  05/07/2024-05/11/2024, Cold Spring Harbor, NY, US
+  * JXTX + CSHL Biology of Genomes 2024 Scholarship (support six outstanding graduate students in genomics and data sciences to attend the conference)
+  
+* **[Poster] Cold Spring Harbor Laboratory - Network Biology 2023**, 03/14/2023-03/18/2023, Cold Spring Harbor, NY, US
+
+* **[Poster] Intelligent Systems for Molecular Biology (ISMB) 2022**, 07/10/2022-07/14/2022, Madison, WI, US
+
+* **[Poster] Intelligent Systems for Molecular Biology (ISMB) 2021**, 07/25/2021-07/30/2021, Virtual
+
+* **[Poster] Great Lakes Bioinformatics Conference (GLBIO) 2021**, 05/10/2021-05/13/2021, Virtual
