@@ -38,20 +38,17 @@ Selected Publications
 ======
 ※: Co-first Author. ¶: Corresponding Author.
 
-1. [Cell 2026] *Global genetic interaction network of a human cell maps conserved principles and informs functional interpretation of gene co-essentiality profiles.* **Billmann, M.※, Costanzo, M.※, Zhang, X.※,  ..., Andrews, B.¶, Boone, C.¶, Moffat, J.¶, Myers, C. L.¶**
+1. **[Cell]** *Global genetic interaction network of a human cell maps conserved principles and informs functional interpretation of gene co-essentiality profiles.* Billmann, M.※, Costanzo, M.※, **Zhang, X.※**,  ..., Andrews, B.¶, Boone, C.¶, Moffat, J.¶, Myers, C. L.¶ (2026)
    * Generated a human genetic interaction network based on the effects of double mutations across 5 million gene pairs from CRISPR/Cas9 screening data in human HAP1 cells and assessed spatial functional coherence with gene clusters.
 
-2. **Zhang, X., Chen, K., Costanzo, M., Chang, D., Hassan, A., ..., Andrews, B., Moffat, J., Boone, C.,  Myers, C. L.¶**
-   * *DeepSLP: Leveraging cancer dependency data to predict synthetic lethality in human cells.* Manuscript in preparation.
+2. **[In preparation]** *DeepSLP: Leveraging cancer dependency data to predict synthetic lethality in human cells.* **Zhang, X**., Chen, K., Costanzo, M., Chang, D., Hassan, A., ...,  Myers, C. L.¶
    * Constructed deep learning models with HPC resources to predict synthetic lethality using high-dimensional features derived from cancer dependency datasets (DepMap), achieving state-of-the-art performance and guiding experimental design.
 
-3. **Fu, C.※, Zhang, X.※, Veri, A. O.※, ..., Myers, C. L.¶, Cowen, L. E.¶ (2021)**
-   * *Leveraging machine learning essentiality predictions and chemogenomic interactions to identify antifungal targets.* Nature Communications.
+3. **[Nature Communications]** *Leveraging machine learning essentiality predictions and chemogenomic interactions to identify antifungal targets.* Fu, C.※, **Zhang, X.※**, Veri, A. O.※, ..., Myers, C. L.¶, Cowen, L. E.¶ (2021)
    * Established an optimized Random Forest classifier in Python (AUROC = 0.92) to provide essentiality predictions for approximately 6,500 genes annotated in the *Candida albicans* genome using 13 integrated biological features.
 
-4. **Xiong, E. H.※, Zhang, X.※, ..., Noble, S. M., Robbins, N., Myers, C. L.¶, Cowen, L. E.¶ (2024)**
-   * *Functional genomic analysis of genes important for Candida albicans fitness in diverse environmental conditions.* Cell Reports.
-   * Developed a hypothesis testing pipeline using moderated t-test in R to identify and characterize genes important for *C. albicans* fitness in diverse environmental conditions, with the corresponding protocol published on STAR Protocols.
+4. **[Cell Reports]** *Functional genomic analysis of genes important for Candida albicans fitness in diverse environmental conditions.* Xiong, E. H.※, **Zhang, X.※**, ..., Noble, S. M., Robbins, N., Myers, C. L.¶, Cowen, L. E.¶ (2024)
+   * Developed a hypothesis testing pipeline using moderated t-test in R to identify and characterize genes important for *C. albicans* fitness in diverse environmental conditions, with the corresponding protocol published on *STAR Protocols*.
    
 Presentations
 ======
