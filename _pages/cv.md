@@ -38,7 +38,7 @@ Selected Publications
 ======
 ※: Co-first Author. ¶: Corresponding Author.
 
-1. **[Cell]** *[Global genetic interaction network of a human cell maps conserved principles and informs functional interpretation of gene co-essentiality profiles] (https://www.cell.com/cell/fulltext/S0092-8674(26)00345-4).* Billmann, M.※, Costanzo, M.※, **Zhang, X.※**,  ..., Andrews, B.¶, Boone, C.¶, Moffat, J.¶, Myers, C. L.¶ (2026)
+1. **[Cell]** *Global genetic interaction network of a human cell maps conserved principles and informs functional interpretation of gene co-essentiality profiles.* Billmann, M.※, Costanzo, M.※, **Zhang, X.※**,  ..., Andrews, B.¶, Boone, C.¶, Moffat, J.¶, Myers, C. L.¶ (2026)
    * Generated a human genetic interaction network based on the effects of double mutations across 5 million gene pairs from CRISPR/Cas9 screening data in human HAP1 cells and assessed spatial functional coherence with gene clusters.
 
 2. **[In preparation]** *DeepSLP: Leveraging cancer dependency data to predict synthetic lethality in human cells.* **Zhang, X**., Chen, K., Costanzo, M., Hassan, A.Z., Chang, D., ...,  Myers, C. L.¶
