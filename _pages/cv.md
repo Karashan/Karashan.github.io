@@ -38,13 +38,13 @@ Selected Publications
 ======
 ※: Co-first Author. ¶: Corresponding Author.
 
-1. **[Cell]** *Global genetic interaction network of a human cell maps conserved principles and informs functional interpretation of gene co-essentiality profiles.* Billmann, M.※, Costanzo, M.※, **Zhang, X.※**,  ..., Andrews, B.¶, Boone, C.¶, Moffat, J.¶, Myers, C. L.¶ (2026)
+1. **[Cell]** *[Global genetic interaction network of a human cell maps conserved principles and informs functional interpretation of gene co-essentiality profiles] (https://www.cell.com/cell/fulltext/S0092-8674(26)00345-4).* Billmann, M.※, Costanzo, M.※, **Zhang, X.※**,  ..., Andrews, B.¶, Boone, C.¶, Moffat, J.¶, Myers, C. L.¶ (2026)
    * Generated a human genetic interaction network based on the effects of double mutations across 5 million gene pairs from CRISPR/Cas9 screening data in human HAP1 cells and assessed spatial functional coherence with gene clusters.
 
 2. **[In preparation]** *DeepSLP: Leveraging cancer dependency data to predict synthetic lethality in human cells.* **Zhang, X**., Chen, K., Costanzo, M., Hassan, A.Z., Chang, D., ...,  Myers, C. L.¶
    * Constructed deep learning models with HPC resources to predict synthetic lethality using high-dimensional features derived from cancer dependency datasets (DepMap), achieving state-of-the-art performance and guiding experimental design.
 
-3. **[STAR Protocols]** *Orobas: A computational approach for scoring and analysis of quantitative chemical-genetic interactions from CRISPR-Cas9 screens* Hassan, A.Z.※, **Zhang, X.※**, Ward, H.N.※, ..., Myers, C. L.¶ (2026)
+3. **[STAR Protocols]** *Orobas: A computational approach for scoring and analysis of quantitative chemical-genetic interactions from CRISPR-Cas9 screens.* Hassan, A.Z.※, **Zhang, X.※**, Ward, H.N.※, ..., Myers, C. L.¶ (2026)
 
 4. **[Nature Communications]** *Leveraging machine learning essentiality predictions and chemogenomic interactions to identify antifungal targets.* Fu, C.※, **Zhang, X.※**, Veri, A. O.※, ..., Myers, C. L.¶, Cowen, L. E.¶ (2021)
    * Established an optimized Random Forest classifier in Python (AUROC = 0.92) to provide essentiality predictions for approximately 6,500 genes annotated in the *Candida albicans* genome using 13 integrated biological features.
