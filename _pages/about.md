@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow in the [Raghavan Lab](https://labs.dana-farber.org/raghavanlab/) at the Dana-Farber Cancer Institute, Harvard Medical School, and Broad Institute of MIT and Harvard. I am currently involved in [Project Ex Vivo](https://exvivo.broadinstitute.org/), a collaborative effort between Microsoft and the Broad Institute aiming for defining, engineering, and targeting cell states in cancer. I specialize in developing machine learning approaches to integrate diverse genomic data, infer biological networks, and identify novel therapeutic targets.
+I am a Postdoctoral Research Fellow in the [Raghavan Lab](https://labs.dana-farber.org/raghavanlab/) at the Dana-Farber Cancer Institute, Harvard Medical School, and Broad Institute of MIT and Harvard. 
+
+ I am currently involved in [Project Ex Vivo](https://exvivo.broadinstitute.org/), a collaborative effort between Microsoft and the Broad Institute aiming for defining, engineering, and targeting cell states in cancer. I specialize in developing machine learning approaches to integrate diverse genomic data, infer biological networks, and identify novel therapeutic targets.
 
  Originally from Shenzhen, I received my PhD in Computer Science from the University of Minnesota-Twin Cities under the mentorship of [Dr. Chad Myers](https://cse.umn.edu/cs/chad-myers). My doctoral research centered on developing computational methods for mapping and interpreting large-scale genetic interaction networks in human cells based on genome-wide CRISPR/Cas9 screens. 
 
